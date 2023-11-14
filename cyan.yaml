@@ -1,0 +1,10 @@
+username: kirinnee
+name: js-template-example
+description: Javascript Template example
+project: https://github.com/kirinnee/cyanprint-example-js-template
+source: https://github.com/kirinnee/cyanprint-example-js-template
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["kirinnee/dotnet-handlebar"]
+plugins: []
